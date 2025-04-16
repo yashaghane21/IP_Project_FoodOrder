@@ -20,7 +20,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/zwiggy.git
+git clone https://github.com/yashaghane21/IP_Project_FoodOrder/tree/main
 cd frontend/zwiggy
 
 🔐 Admin Login
